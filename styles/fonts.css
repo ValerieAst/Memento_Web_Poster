@@ -1,0 +1,69 @@
+@import url('https://fonts.googleapis.com/css?family=Open+Sans:300,400,700|Tinos:400,400i,700&display=swap&subset=cyrillic');
+
+/* TYPOGRAPHY START */
+h1 {
+  font-family: 'Open Sans', sans-serif;
+  font-weight: bold;
+  font-size: 9rem;
+}
+
+.date h1 {
+  font-size: 2.25rem;
+}
+
+.footer h1 {
+  font-size: 2.25rem;
+}
+
+h2 {
+  font-family: 'Tinos', serif;
+  font-style: italic;
+  font-weight: normal;
+  font-size: 1.75rem;
+}
+
+.cover h2 {
+  font-size: 1.75rem;
+}
+
+.date h2 {
+  font-size: 1.5rem;
+}
+
+h3 {
+  font-family: 'Tinos';
+  font-style: normal;
+  font-weight: bold;
+  font-size: 4rem;
+}
+
+h4 {
+  font-family: 'Tinos';
+  font-style: normal;
+}
+
+.date h3 {
+  font-weight: bold;
+  font-size: 2.75rem;
+}
+
+.break h3 {
+  font-weight: normal;
+  font-size: 2rem;
+}
+
+p {
+  font-family: 'Open Sans';
+  font-weight: 300;
+  font-size: 1.25rem;
+
+}
+
+.cover p {
+  font-size: 1.25rem;
+}
+
+.date p {
+  font-size: 1.5rem;
+}
+/* TYPOGRAPHY END */
