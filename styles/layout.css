@@ -52,7 +52,7 @@ img {
 
 .visible {
   position: absolute;
-  margin-top: 20px
+  margin-top: -8vh;
   opacity: 1;
 }
 
@@ -83,12 +83,19 @@ img {
 
 .date {
   display: flex;
-  flex-direction: row;
   justify-content: center;
 
   height:auto;
 
   margin: 0 20vw 0 20vw;
+}
+
+.left {
+  flex-direction: row;
+}
+
+.right {
+  flex-direction: row-reverse;
 }
 
 .date_year {
